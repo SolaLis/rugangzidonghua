@@ -1,0 +1,4 @@
+#Tue Nov 28 10:49:28 CST 2017
+base.0=G\:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

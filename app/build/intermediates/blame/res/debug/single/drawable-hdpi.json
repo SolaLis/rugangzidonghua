@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_flashlight_normal.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_flashlight_normal.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_laser.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_laser.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_bottom_right.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_history_normal.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_history_normal.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_photo_pressed.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_photo_pressed.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_top_right.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_top_right.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_fail.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_fail.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumb_unfocus.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\thumb_unfocus.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_flashlight_pressed.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_top_left.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_top_left.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_photo_normal.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_photo_normal.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_history_pressed.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_history_pressed.png"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_bottom_left.png",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable-hdpi\\scan_corner_bottom_left.png"
+    }
+]

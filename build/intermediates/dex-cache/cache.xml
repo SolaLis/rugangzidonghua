@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\ASSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\as_workspace\BarcodeScanner-master1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_8f9c28d53b85d43cbf7c820c1b388e95cba51201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\as_workspace\BarcodeScanner-master1\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="G:\as_workspace\BarcodeScanner-master1\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_3809eb2b3af62c843d5281e4f1768882c631b368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\as_workspace\BarcodeScanner-master1\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="G:\as_workspace\BarcodeScanner-master1\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_4976fbca57ef75491047e32ab0630eb13ed54f78.jar" />
+    </item>
+
+</items>

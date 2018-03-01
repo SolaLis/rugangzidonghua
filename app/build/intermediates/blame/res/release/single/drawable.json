@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_flashlight.xml",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable\\scan_flashlight.xml"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_photo.xml",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable\\scan_photo.xml"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_style.xml",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scan_history.xml",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable\\scan_history.xml"
+    },
+    {
+        "merged": "G:\\as_workspace\\BarcodeScanner-master1\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_bg.xml",
+        "source": "G:\\as_workspace\\BarcodeScanner-master1\\app\\src\\main\\res\\drawable\\seekbar_bg.xml"
+    }
+]
